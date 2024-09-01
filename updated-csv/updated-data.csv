@@ -1,0 +1,9 @@
+Serial Number,Product Name,Input Image Urls,Compressed Image Urls
+1,SKU1,https://fastly.picsum.photos/id/308/200/300.jpg?hmac=gixbOWHWb-aG6q4H8cIfry9U7rYooifzOLag_k5v-tk,
+https://fastly.picsum.photos/id/308/200/300.jpg?hmac=gixbOWHWb-aG6q4H8cIfry9U7rYooifzOLag_k5v-tk,
+https://fastly.picsum.photos/id/308/200/300.jpg?hmac=gixbOWHWb-aG6q4H8cIfry9U7rYooifzOLag_k5v-tk
+,compressed-images\compressed-300.jpg, compressed-images\compressed-300.jpg, compressed-images\compressed-300.jpg
+2,SKU2,https://fastly.picsum.photos/id/308/200/300.jpg?hmac=gixbOWHWb-aG6q4H8cIfry9U7rYooifzOLag_k5v-tk,
+https://fastly.picsum.photos/id/308/200/300.jpg?hmac=gixbOWHWb-aG6q4H8cIfry9U7rYooifzOLag_k5v-tk,
+https://fastly.picsum.photos/id/308/200/300.jpg?hmac=gixbOWHWb-aG6q4H8cIfry9U7rYooifzOLag_k5v-tk
+,compressed-images\compressed-300.jpg, compressed-images\compressed-300.jpg, compressed-images\compressed-300.jpg
